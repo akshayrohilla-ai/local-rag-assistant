@@ -1,0 +1,10 @@
+Cloud computing provides on-demand computing resources over the internet.
+
+Three service models:
+- IaaS: Infrastructure as a Service
+- PaaS: Platform as a Service
+- SaaS: Software as a Service
+
+Major providers include AWS, Azure and Google Cloud.
+
+Benefits include scalability, flexibility and pay-as-you-go pricing.
