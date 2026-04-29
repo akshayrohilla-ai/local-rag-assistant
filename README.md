@@ -33,3 +33,11 @@ User Query
 - Persistent vector DB
 - Multi-document support
 - Streamlit UI
+
+## Sample Questions
+
+Examples:
+
+What is cloud computing?
+What are the service models?
+Is Oracle Cloud listed as provider?
