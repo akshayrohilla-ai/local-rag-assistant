@@ -38,6 +38,6 @@ User Query
 
 Examples:
 
-What is cloud computing?
-What are the service models?
-Is Oracle Cloud listed as provider?
+- What is cloud computing?
+- What are the service models?
+- Is Oracle Cloud listed as provider?
